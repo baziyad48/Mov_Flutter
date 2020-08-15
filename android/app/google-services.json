@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300275580493",
+    "firebase_url": "https://mov-flutter.firebaseio.com",
+    "project_id": "mov-flutter",
+    "storage_bucket": "mov-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300275580493:android:e51a7da80aab8a3412a604",
+        "android_client_info": {
+          "package_name": "com.example.mov_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300275580493-ta3jesha5l05pph8de0e415r8d82jcq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_sWG_cTuDAcmyh3Ve8BG0Ivm78F-r9-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300275580493-ta3jesha5l05pph8de0e415r8d82jcq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
